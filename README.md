@@ -1,6 +1,5 @@
 # Machine Learning Projects
 AI, Data Science, Machine Learning projects.  
-My goal is to develop a portfolio to demonstrate my skills to potential employers.
 
 ## Computer Vision: Clothing Recognition
 Using TensorFlow, Keras to train and test a computer vision model in identifying different articles of clothing
